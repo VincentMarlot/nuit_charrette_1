@@ -12,7 +12,7 @@ for (var i=0; i < Math.pow(n,2); i++) {
 var currentObstacleX= getRandomArbitrary(0,5);
 var currentObstacleY= 0;
 var obstacle= document.createElement('img');
-img.setAttribute('src', "tay.jpg" );
+img.setAttribute('src', "./asests/tay.jpg" );
 img.setAttribute('height', "20%" );
 img.setAttribute('width', "20%" );
 
