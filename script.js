@@ -1,6 +1,3 @@
-console.log('coucou')
-
-
 var n = 6;
 var section = document.getElementById('game');
 var currentObstacle = 0;
