@@ -11,8 +11,9 @@ var gamingZoneSize = 1000;
 var nb_item = 5;
 
 //webstorm  autosave
-
+/*
 for (var i = 1, limit=Math.pow(nb_item,2) ; i <= limit; i++){
   var square = document.createElement('div');
   gamingZone.appendChild(square);
 }
+*/
